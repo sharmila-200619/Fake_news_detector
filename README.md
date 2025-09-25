@@ -22,7 +22,11 @@ A machine learning-based web app that detects whether a given news article is fa
 
  📂 Folder Structure
 
-News-Detector-Project/ ├── app.py ├── model.pkl ├── vectorizer.pkl ├── news.csv ├── requirements.txt └── README.md
+fake-news-detector/
+├── app.py               # Main Streamlit app
+├── news_model.pkl       # Trained ML model
+├── vectorizer.pkl       # TF-IDF vectorizer
+├── requirements.txt     # Required Python packages
 
  ▶️ How to Run
 
