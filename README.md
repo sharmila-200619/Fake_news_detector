@@ -15,12 +15,10 @@ A machine learning-based web app that detects whether a given news article is fa
 
 🛠️ Technologies Used
 
-- Python
-- Streamlit
-- Scikit-learn
-- Pandas, NumPy
-- TfidfVectorizer
-- PassiveAggressiveClassifier
+- streamlit==1.29.0
+- scikit-learn==1.3.2
+- nltk==3.8.1
+- python
 
  📂 Folder Structure
 
